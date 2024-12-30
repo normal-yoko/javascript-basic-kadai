@@ -1,5 +1,5 @@
 // 変数numに1以上の正の数を代入 //
-let num = 255;
+let num = 15;
 
 // 確認用//
 console.log(num);
